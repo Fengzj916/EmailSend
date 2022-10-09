@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IdeaWorkspace:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Springboot_Maven191-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="IdeaWorkspace:war exploded" />
+    </root>
+  </artifact>
+</component>
